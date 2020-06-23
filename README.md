@@ -22,3 +22,5 @@
 |"webpack-dev-server": | `"^3.11.0"`| to deploy server dev in browser and livereload    |
 
 ### Description of boiler plate by function
+
+![mermaid-diagram](https://raw.githubusercontent.com/oteroweb/webpack-react-atomic-redux-i18n-auth-material-UI-PWA/master/mermaid-diagram-20200623053245.svg)
