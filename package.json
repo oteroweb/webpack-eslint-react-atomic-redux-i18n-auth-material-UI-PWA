@@ -2,7 +2,9 @@
   "name": "webpack-eslint-react-atomic-redux-i18n-auth-material-UI-PWA",
   "version": "1.0.0",
   "description": "A boiler plate with functions separate by branch with a simple functional webpack, eslint, Atomic Design Methodology pattern schema, react configuration, redux, i18n (Internationalization multi language), service worker, PWA(Progressive Web Application), SPA, Auth by API  ",
-  "keywords": ["webpack, eslint, react, atomic, redux, i18n, auth, material, UI, PWA"],
+  "keywords": [
+    "webpack, eslint, react, atomic, redux, i18n, auth, material, UI, PWA"
+  ],
   "license": "ISC",
   "author": "Jose Otero (OteroWeb)",
   "main": "index.js",
