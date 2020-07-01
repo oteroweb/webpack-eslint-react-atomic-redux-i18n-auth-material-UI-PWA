@@ -20,7 +20,14 @@
 |"webpack-cli"| `"^3.3.11"` |For proper usage and easy distribution of this configuration, webpack can be configured with webpack.config.js|
 |"webpack" | `"^4.43.0"`|Core of Webpack|
 |"webpack-dev-server": | `"^3.11.0"`| to deploy server dev in browser and livereload    |
-
+|"eslint": | `"^7.3.1"`| Eslint core    |
+|"eslint-loader": | `"^4.0.2"`| A ESlint loader for webpack   |
+|"eslint-plugin-react": | `"^7.20.0"`| React specific linting rules for ESLint    |
+|"eslint-config-prettier": | `"^6.11.0"`| Turns off all rules that are unnecessary or might conflict with Prettier.    |
+|"eslint-plugin-prettier": | `"^3.1.4"`| Runs Prettier as an ESLint rule and reports differences as individual ESLint issues.    |
+|"prettier": | `"2.0.5"`| Prettier is an opinionated code formatter.    |
+|"babel-eslint": | `"^10.1.0"`| babel-eslint allows you to lint ALL valid Babel code with the fantastic ESLint.   |
+    
 ### Description of boiler plate by function
 
 ![mermaid-diagram](https://raw.githubusercontent.com/oteroweb/webpack-react-atomic-redux-i18n-auth-material-UI-PWA/master/mermaid-diagram-20200623053245.svg)

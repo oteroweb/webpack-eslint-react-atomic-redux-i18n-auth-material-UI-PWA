@@ -34,6 +34,14 @@ module.exports = {
                 use: [MiniCssExtractPlugin.loader, 'css-loader'],
 
             },
+            {
+              test: /\.(js|jsx)$/i,
+              exclude: "/node_modules/",
+              loader: "eslint-loader",
+              options: {
+                // eslint options (if necessary)
+              },
+            },
         ]
     },
     plugins:[
